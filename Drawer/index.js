@@ -2,7 +2,8 @@
  * Created by TinySymphony on 2017-02-14.
  */
 
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import {
   StyleSheet,
   View,
